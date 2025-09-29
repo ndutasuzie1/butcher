@@ -37,10 +37,10 @@
       "imageHint": "pork shoulder"
     },
     {
-      "id": "brisket-1",
-      "description": "A whole, untrimmed beef brisket.",
-      "imageUrl": "https://images.unsplash.com/photo-1680404971036-33eaa1d2d840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxiZWVmJTIwYnJpc2tldHxlbnwwfHx8fDE3NTkwNjAxNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "beef brisket"
+      "id": "butcher-knife-set-1",
+      "description": "A 9-piece razor sharp butcher knife set.",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/refs/heads/main/src/lib/9PCS%20Razor%20Sharp%20Butcher%20Knife%20Set%20_%20Forged%201_5kg%20Iron%20Cleaver%20%26%20Steel%20Blades%20_%20Heavy%20Duty%20Meat%20Cutting%20Kit.jpg",
+      "imageHint": "butcher knives"
     },
     {
       "id": "blog-sear-steak-1",

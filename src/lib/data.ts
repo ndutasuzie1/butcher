@@ -42,12 +42,12 @@ export const products: Product[] = [
     imageId: 'pork-shoulder-1',
   },
   {
-    id: 'beef-brisket',
-    name: 'Beef Brisket',
-    category: 'Beef',
-    description: 'The king of barbecue. A tough cut that transforms into a smoky, tender masterpiece.',
-    price: 15.99,
-    imageId: 'brisket-1',
+    id: 'butcher-knife-set',
+    name: 'Butcher Knife Set',
+    category: 'Gear',
+    description: 'A 9-piece razor sharp butcher knife set, featuring a forged iron cleaver and heavy-duty steel blades.',
+    price: 189.99,
+    imageId: 'butcher-knife-set-1',
   },
   {
     id: 'butchery-grill',
