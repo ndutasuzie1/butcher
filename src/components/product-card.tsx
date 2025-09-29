@@ -48,11 +48,12 @@ export default function ProductCard({ product }: ProductCardProps) {
         {product.price > 0 && (
           <div className="mt-4 flex items-center justify-between">
             <span className="text-2xl font-bold text-primary">KES {product.price.toLocaleString()}</span>
-            {product.category !== 'Gear' ? (
-              <RecipeRecommendationDialog meatCut={product.name} image={image} />
-            ) : (
+            <div className="flex gap-2">
+              {product.category !== 'Gear' && (
+                <RecipeRecommendationDialog meatCut={product.name} image={image} />
+              )}
               <Button size="sm" className="bg-primary text-primary-foreground shadow-neumorphic-out active:shadow-neumorphic-in-sm transition-all">Add to Cart</Button>
-            )}
+            </div>
           </div>
         )}
       </div>
