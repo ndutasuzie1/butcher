@@ -47,7 +47,7 @@ export const products: Product[] = [
     name: 'Butcher Knife Set',
     category: 'Gear',
     description: 'A 9-piece razor sharp butcher knife set, featuring a forged iron cleaver and heavy-duty steel blades.',
-    price: 189.99,
+    price: 0,
     imageId: 'butcher-knife-set-1',
   },
   {
