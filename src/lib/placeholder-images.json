@@ -21,7 +21,7 @@
     {
       "id": "chicken-thighs-1",
       "description": "Several bone-in, skin-on raw chicken thighs arranged neatly.",
-      "imageUrl": "https://images.unsplash.com/photo-1696371270128-75b4e3598748?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hpY2tlbiUyMHRoaWdoc3xlbnwwfHx8fDE3NTkxMTgzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/main/src/lib/download%20(1).jpg",
       "imageHint": "chicken thighs"
     },
     {
@@ -32,13 +32,13 @@
     },
     {
       "id": "pork-shoulder-1",
-      "description": "A large pork shoulder roast, also known as a Boston butt.",
+      "description": "Ideal for pulled pork, this cut becomes incredibly tender and flavorful with slow cooking.",
       "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/main/src/lib/Grilled%20Pork%20Shoulder%20Skewers.jpg",
       "imageHint": "pork shoulder"
     },
     {
       "id": "butcher-knife-set-1",
-      "description": "A 9-piece razor sharp butcher knife set.",
+      "description": "A 9-piece razor sharp butcher knife set, featuring a forged iron cleaver and heavy-duty steel blades.",
       "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/refs/heads/main/src/lib/9PCS%20Razor%20Sharp%20Butcher%20Knife%20Set%20_%20Forged%201_5kg%20Iron%20Cleaver%20%26%20Steel%20Blades%20_%20Heavy%20Duty%20Meat%20Cutting%20Kit.jpg",
       "imageHint": "butcher knives"
     },
@@ -56,13 +56,13 @@
     },
     {
       "id": "butchery-grill-1",
-      "description": "The Butchery Grill, a dual-function grill for searing and smoking.",
+      "description": "Master the art of barbecue with this versatile dual-function grill, perfect for both quick searing and slow smoking.",
       "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/refs/heads/main/src/lib/The%20Char-Griller%20Duo%20Combo%20Grill%20gives%20you%20the%20benefit%20of%20simple%20charcoal%20and%20gas%20cooking%20in%20one%20unit.jpg",
       "imageHint": "bbq grill"
     },
     {
       "id": "food-grinder-1",
-      "description": "My Kenwood Chef Multi-Food Grinder Attachment (AKA Mincer).",
+      "description": "Perfect for making freshly minced meat and homemade sausages. A versatile attachment for any chef.",
       "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/refs/heads/main/src/lib/My%20Kenwood%20Chef%20Multi-Food%20Grinder%20Attachment%20(AKA%20Mincer).jpg",
       "imageHint": "minced meat"
     }
