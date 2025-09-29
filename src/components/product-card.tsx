@@ -1,3 +1,5 @@
+'use client';
+
 import Image from 'next/image';
 import type { Product } from '@/lib/types';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
@@ -6,6 +8,7 @@ import { PorkIcon } from './icons';
 import { Badge } from '@/components/ui/badge';
 import { Button } from './ui/button';
 import RecipeRecommendationDialog from './recipe-recommendation-dialog';
+import { useCart } from '@/hooks/use-cart';
 
 type ProductCardProps = {
   product: Product;
@@ -21,6 +24,7 @@ const categoryIcons = {
 
 export default function ProductCard({ product }: ProductCardProps) {
   const image = PlaceHolderImages.find((img) => img.id === product.imageId);
+  const { addToCart } = useCart();
 
   return (
     <div className="group flex flex-col rounded-2xl bg-background p-4 shadow-neumorphic-out transition-all duration-300 hover:shadow-neumorphic-in">
@@ -52,7 +56,7 @@ export default function ProductCard({ product }: ProductCardProps) {
               {product.category !== 'Gear' && (
                 <RecipeRecommendationDialog meatCut={product.name} image={image} />
               )}
-              <Button size="sm" className="bg-primary text-primary-foreground shadow-neumorphic-out active:shadow-neumorphic-in-sm transition-all">Add to Cart</Button>
+              <Button size="sm" onClick={() => addToCart(product)} className="bg-primary text-primary-foreground shadow-neumorphic-out active:shadow-neumorphic-in-sm transition-all">Add to Cart</Button>
             </div>
           </div>
         )}

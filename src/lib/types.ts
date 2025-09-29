@@ -7,6 +7,10 @@ export type Product = {
   imageId: string;
 };
 
+export type CartItem = Product & {
+  quantity: number;
+};
+
 export type CutOfTheWeek = {
   productId: string;
   promoPrice: number;

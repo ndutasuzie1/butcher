@@ -4,6 +4,7 @@ import { cn } from '@/lib/utils';
 import Header from '@/components/layout/header';
 import Footer from '@/components/layout/footer';
 import { Toaster } from '@/components/ui/toaster';
+import { CartProvider } from '@/hooks/use-cart';
 
 export const metadata: Metadata = {
   title: "The King's Pork House",
@@ -30,12 +31,14 @@ export default function RootLayout({
           'font-body bg-background text-foreground antialiased'
         )}
       >
-        <div className="flex min-h-screen flex-col">
-          <Header />
-          <main className="flex-1">{children}</main>
-          <Footer />
-        </div>
-        <Toaster />
+        <CartProvider>
+          <div className="flex min-h-screen flex-col">
+            <Header />
+            <main className="flex-1">{children}</main>
+            <Footer />
+          </div>
+          <Toaster />
+        </CartProvider>
       </body>
     </html>
   );
