@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A beautiful spread of various cuts of meat on a wooden butcher block.",
+      "imageUrl": "https://images.unsplash.com/photo-1584873069262-427e437b8eb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxidXRjaGVyJTIwc2hvcHxlbnwwfHx8fDE3NTkxMjM2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "butcher shop"
+    },
+    {
+      "id": "pork-belly-1",
+      "description": "A large, succulent piece of raw pork belly with layers of fat and meat.",
+      "imageUrl": "https://images.unsplash.com/photo-1684815495679-f6e6bc0634ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JrJTIwYmVsbHl8ZW58MHx8fHwxNzU5MTE4Mzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pork belly"
+    },
+    {
+      "id": "ribeye-steak-1",
+      "description": "A thick, marbled ribeye steak, raw and ready for cooking.",
+      "imageUrl": "https://images.unsplash.com/photo-1682566509605-b5bb1ef7eac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyaWJleWUlMjBzdGVha3xlbnwwfHx8fDE3NTkwNzg5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ribeye steak"
+    },
+    {
+      "id": "chicken-thighs-1",
+      "description": "Several bone-in, skin-on raw chicken thighs arranged neatly.",
+      "imageUrl": "https://images.unsplash.com/photo-1696371270128-75b4e3598748?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hpY2tlbiUyMHRoaWdoc3xlbnwwfHx8fDE3NTkxMTgzNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chicken thighs"
+    },
+    {
+      "id": "lamb-chops-1",
+      "description": "A rack of lamb, cut into individual chops.",
+      "imageUrl": "https://images.unsplash.com/photo-1588063401672-23ca19fa4c98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGFtYiUyMGNob3BzfGVufDB8fHx8MTc1OTEzOTEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lamb chops"
+    },
+    {
+      "id": "pork-shoulder-1",
+      "description": "A large pork shoulder roast, also known as a Boston butt.",
+      "imageUrl": "https://images.unsplash.com/photo-1669031063371-59266bd4e2d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3JrJTIwc2hvdWxkZXJ8ZW58MHx8fHwxNzU5MTM5MTAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pork shoulder"
+    },
+    {
+      "id": "brisket-1",
+      "description": "A whole, untrimmed beef brisket.",
+      "imageUrl": "https://images.unsplash.com/photo-1680404971036-33eaa1d2d840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxiZWVmJTIwYnJpc2tldHxlbnwwfHx8fDE3NTkwNjAxNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beef brisket"
+    },
+    {
+      "id": "blog-sear-steak-1",
+      "description": "A perfectly seared steak in a cast-iron skillet with herbs.",
+      "imageUrl": "https://images.unsplash.com/photo-1735183681165-1ca7c4a56b85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZWFyZWQlMjBzdGVha3xlbnwwfHx8fDE3NTkxMzkxMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "seared steak"
+    },
+    {
+      "id": "blog-smoking-ribs-1",
+      "description": "A rack of ribs being smoked on a large grill.",
+      "imageUrl": "https://images.unsplash.com/photo-1705509444063-95b513370690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzbW9rZWQlMjByaWJzfGVufDB8fHx8MTc1OTEzOTEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smoked ribs"
+    }
+  ]
 }
