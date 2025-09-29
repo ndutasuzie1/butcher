@@ -39,7 +39,7 @@ export const products: Product[] = [
     name: 'Pork Shoulder',
     category: 'Pork',
     description: 'Ideal for pulled pork, this cut becomes incredibly tender and flavorful with slow cooking.',
-    price: 9.99,
+    price: 150,
     imageId: 'pork-shoulder-1',
   },
   {
