@@ -1,3 +1,4 @@
+
 import type { Product, CutOfTheWeek, BlogPost } from './types';
 
 export const products: Product[] = [
@@ -14,7 +15,7 @@ export const products: Product[] = [
     name: 'Ribeye Steak',
     category: 'Beef',
     description: 'A classic cut known for its exceptional marbling, tenderness, and rich, beefy taste.',
-    price: 24.99,
+    price: 400,
     imageId: 'ribeye-steak-1',
   },
   {
