@@ -19,9 +19,9 @@ export const products: Product[] = [
   },
   {
     id: 'chicken-thighs',
-    name: 'Chicken Thighs',
+    name: 'Mishkakiz',
     category: 'Poultry',
-    description: 'Juicy, flavorful, and versatile. Great for grilling, roasting, or pan-searing.',
+    description: 'Juicy, flavorful, and versatile chicken pieces, perfect for making delicious Mishkakiz skewers. Great for grilling.',
     price: 8.99,
     imageId: 'chicken-thighs-1',
   },
