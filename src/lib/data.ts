@@ -22,8 +22,8 @@ export const products: Product[] = [
     id: 'mishkakiz',
     name: 'Mishkakiz',
     category: 'Poultry',
-    description: 'Juicy, flavorful, and versatile chicken pieces, perfect for making delicious Mishkakiz skewers. Great for grilling.',
-    price: 8.99,
+    description: 'Juicy and flavorful chicken pieces on a skewer, perfect for grilling. Price is per skewer.',
+    price: 150,
     imageId: 'chicken-thighs-1',
   },
   {
