@@ -25,10 +25,10 @@
       "imageHint": "chicken skewers"
     },
     {
-      "id": "lamb-chops-1",
-      "description": "A rack of lamb, cut into individual chops.",
-      "imageUrl": "https://images.unsplash.com/photo-1588063401672-23ca19fa4c98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGFtYiUyMGNob3BzfGVufDB8fHx8MTc1OTEzOTEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "lamb chops"
+      "id": "pork-chops-1",
+      "description": "A rack of pork, cut into individual chops.",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/main/src/lib/Pork%20Chops%20in%20Parchment%20Paper%20-%20Fearless%20Fresh.jpg",
+      "imageHint": "pork chops"
     },
     {
       "id": "pork-shoulder-1",

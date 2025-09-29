@@ -18,7 +18,7 @@ export const products: Product[] = [
     imageId: 'ribeye-steak-1',
   },
   {
-    id: 'chicken-thighs',
+    id: 'mishkakiz',
     name: 'Mishkakiz',
     category: 'Poultry',
     description: 'Juicy, flavorful, and versatile chicken pieces, perfect for making delicious Mishkakiz skewers. Great for grilling.',
@@ -26,12 +26,12 @@ export const products: Product[] = [
     imageId: 'chicken-thighs-1',
   },
   {
-    id: 'lamb-chops',
-    name: 'Lamb Chops',
-    category: 'Lamb',
-    description: 'Tender and delicate, these loin chops are perfect for a quick and elegant meal.',
-    price: 28.99,
-    imageId: 'lamb-chops-1',
+    id: 'pork-chops',
+    name: 'Pork Chops',
+    category: 'Pork',
+    description: 'Versatile and lean, these pork chops are great for grilling, pan-searing, or baking.',
+    price: 15.99,
+    imageId: 'pork-chops-1',
   },
   {
     id: 'pork-shoulder',
