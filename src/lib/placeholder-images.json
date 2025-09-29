@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "hero-1",
-      "description": "A beautiful spread of various cuts of meat on a wooden butcher block.",
-      "imageUrl": "https://images.unsplash.com/photo-1584873069262-427e437b8eb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxidXRjaGVyJTIwc2hvcHxlbnwwfHx8fDE3NTkxMjM2NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "butcher shop"
+      "description": "Beef hanging in a butcher shop.",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/refs/heads/main/src/lib/Beef%20Hanging%20In%20Butcher%20Shop.jpg",
+      "imageHint": "hanging beef"
     },
     {
       "id": "pork-belly-1",
