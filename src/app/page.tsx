@@ -69,8 +69,8 @@ export default function Home() {
               <h3 className="font-headline text-3xl font-bold">{cutOfTheWeekProduct.name}</h3>
               <p className="mt-4 text-foreground/80">{cutOfTheWeekProduct.description}</p>
               <div className="mt-6 flex items-baseline gap-4">
-                <span className="text-4xl font-bold text-primary">${cutOfTheWeek.promoPrice.toFixed(2)}</span>
-                <span className="text-xl text-muted-foreground line-through">${cutOfTheWeekProduct.price.toFixed(2)}</span>
+                <span className="text-4xl font-bold text-primary">KES {cutOfTheWeek.promoPrice.toLocaleString()}</span>
+                <span className="text-xl text-muted-foreground line-through">KES {cutOfTheWeekProduct.price.toLocaleString()}</span>
               </div>
               <p className="mt-2 text-accent">This week only!</p>
             </div>

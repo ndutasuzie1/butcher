@@ -46,7 +46,7 @@ export default function ProductCard({ product }: ProductCardProps) {
         </div>
         <p className="mt-2 flex-grow text-sm text-foreground/70">{product.description}</p>
         <div className="mt-4 flex items-center justify-between">
-          <span className="text-2xl font-bold text-primary">${product.price.toFixed(2)}</span>
+          <span className="text-2xl font-bold text-primary">KES {product.price.toLocaleString()}</span>
           {product.category !== 'Gear' ? (
             <RecipeRecommendationDialog meatCut={product.name} image={image} />
           ) : (
