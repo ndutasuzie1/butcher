@@ -55,7 +55,7 @@ export const products: Product[] = [
     name: 'The Butchery Grill',
     category: 'Gear',
     description: 'Master the art of barbecue with this versatile dual-function grill, perfect for both quick searing and slow smoking.',
-    price: 499.99,
+    price: 0,
     imageId: 'butchery-grill-1',
   },
   {
@@ -63,7 +63,7 @@ export const products: Product[] = [
     name: 'Multi-Food Grinder',
     category: 'Gear',
     description: 'Perfect for making freshly minced meat and homemade sausages. A versatile attachment for any chef.',
-    price: 129.99,
+    price: 0,
     imageId: 'food-grinder-1',
   },
 ];
