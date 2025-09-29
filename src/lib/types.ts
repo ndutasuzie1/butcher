@@ -1,7 +1,7 @@
 export type Product = {
   id: string;
   name: string;
-  category: 'Pork' | 'Beef' | 'Poultry' | 'Lamb';
+  category: 'Pork' | 'Beef' | 'Poultry' | 'Lamb' | 'Gear';
   description: string;
   price: number;
   imageId: string;

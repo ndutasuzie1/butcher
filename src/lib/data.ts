@@ -49,6 +49,14 @@ export const products: Product[] = [
     price: 15.99,
     imageId: 'brisket-1',
   },
+  {
+    id: 'butchery-grill',
+    name: 'The Butchery Grill',
+    category: 'Gear',
+    description: 'Master the art of barbecue with this versatile dual-function grill, perfect for both quick searing and slow smoking.',
+    price: 499.99,
+    imageId: 'butchery-grill-1',
+  },
 ];
 
 export const cutOfTheWeek: CutOfTheWeek = {

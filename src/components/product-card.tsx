@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import type { Product } from '@/lib/types';
 import { PlaceHolderImages } from '@/lib/placeholder-images';
-import { Beef, Drumstick } from 'lucide-react';
+import { Beef, Drumstick, CookingPot } from 'lucide-react';
 import { PorkIcon } from './icons';
 import { Badge } from '@/components/ui/badge';
 import { Button } from './ui/button';
@@ -16,6 +16,7 @@ const categoryIcons = {
   Beef: <Beef className="h-4 w-4" />,
   Poultry: <Drumstick className="h-4 w-4" />,
   Lamb: <PorkIcon className="h-4 w-4" />, // Using PorkIcon as a placeholder for lamb
+  Gear: <CookingPot className="h-4 w-4" />,
 };
 
 export default function ProductCard({ product }: ProductCardProps) {
@@ -46,7 +47,11 @@ export default function ProductCard({ product }: ProductCardProps) {
         <p className="mt-2 flex-grow text-sm text-foreground/70">{product.description}</p>
         <div className="mt-4 flex items-center justify-between">
           <span className="text-2xl font-bold text-primary">${product.price.toFixed(2)}</span>
-           <RecipeRecommendationDialog meatCut={product.name} image={image}/>
+          {product.category !== 'Gear' ? (
+            <RecipeRecommendationDialog meatCut={product.name} image={image} />
+          ) : (
+            <Button size="sm" className="bg-primary text-primary-foreground shadow-neumorphic-out active:shadow-neumorphic-in-sm transition-all">Add to Cart</Button>
+          )}
         </div>
       </div>
     </div>
