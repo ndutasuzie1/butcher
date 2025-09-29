@@ -59,6 +59,12 @@
       "description": "The Butchery Grill, a dual-function grill for searing and smoking.",
       "imageUrl": "https://storage.googleapis.com/project-pinball-v1/user-uploads/62495a82-38bd-4050-b34e-5e8249821815.jpg",
       "imageHint": "bbq grill"
+    },
+    {
+      "id": "food-grinder-1",
+      "description": "My Kenwood Chef Multi-Food Grinder Attachment (AKA Mincer).",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/refs/heads/main/src/lib/My%20Kenwood%20Chef%20Multi-Food%20Grinder%20Attachment%20(AKA%20Mincer).jpg",
+      "imageHint": "minced meat"
     }
   ]
 }

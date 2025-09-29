@@ -57,6 +57,14 @@ export const products: Product[] = [
     price: 499.99,
     imageId: 'butchery-grill-1',
   },
+  {
+    id: 'food-grinder',
+    name: 'Multi-Food Grinder',
+    category: 'Gear',
+    description: 'Perfect for making freshly minced meat and homemade sausages. A versatile attachment for any chef.',
+    price: 129.99,
+    imageId: 'food-grinder-1',
+  },
 ];
 
 export const cutOfTheWeek: CutOfTheWeek = {
