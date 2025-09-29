@@ -30,8 +30,8 @@ export const products: Product[] = [
     id: 'pork-chops',
     name: 'Pork Chops',
     category: 'Pork',
-    description: 'Versatile and lean, these pork chops are great for grilling, pan-searing, or baking.',
-    price: 15.99,
+    description: 'Versatile and lean, these pork chops are great for grilling, pan-searing, or baking. Price is per kg.',
+    price: 900,
     imageId: 'pork-chops-1',
   },
   {
