@@ -3,8 +3,8 @@ import type { Product, CutOfTheWeek, BlogPost } from './types';
 
 export const products: Product[] = [
   {
-    id: 'pork-belly',
-    name: 'Pork Belly',
+    id: 'chips-mix',
+    name: 'Chips Mix',
     category: 'Pork',
     description: 'Rich, fatty, and full of flavor. Perfect for slow roasting, braising, or making homemade bacon.',
     price: 600,
@@ -69,7 +69,7 @@ export const products: Product[] = [
 ];
 
 export const cutOfTheWeek: CutOfTheWeek = {
-  productId: 'pork-belly',
+  productId: 'chips-mix',
   promoPrice: 9.99,
 };
 
