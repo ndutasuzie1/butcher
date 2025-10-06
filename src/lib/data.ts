@@ -68,11 +68,6 @@ export const products: Product[] = [
   },
 ];
 
-export const cutOfTheWeek: CutOfTheWeek = {
-  productId: 'chips-mix',
-  promoPrice: 9.99,
-};
-
 export const blogPosts: BlogPost[] = [
     {
         slug: 'how-to-sear-a-steak',
@@ -119,3 +114,5 @@ export const blogPosts: BlogPost[] = [
         imageId: 'blog-smoking-ribs-1'
     }
 ];
+
+export const cutOfTheWeek: CutOfTheWeek | null = null;
