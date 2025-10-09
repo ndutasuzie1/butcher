@@ -15,7 +15,7 @@
     {
       "id": "ribeye-steak-1",
       "description": "A thick, marbled ribeye steak, raw and ready for cooking.",
-      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/main/src/Always%20rest%20your%20smoked%20meat!%20Let%20it%20sit%20for%2010-15%20minutes%20for%20maximum%20juiciness_%20%F0%9F%95%92%F0%9F%A5%A9%20%23BBQTips.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/main/src/lib/Always%20rest%20your%20smoked%20meat!%20Let%20it%20sit%20for%2010-15%20minutes%20for%20maximum%20juiciness_%20%F0%9F%95%92%F0%9F%A5%A9%20%23BBQTips.jpg",
       "imageHint": "ribeye steak"
     },
     {
@@ -45,7 +45,7 @@
     {
       "id": "blog-sear-steak-1",
       "description": "A perfectly seared steak in a cast-iron skillet with herbs.",
-      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/main/src/99141b35-23a6-403d-9370-f27b8a7b0a09.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/main/src/lib/99141b35-23a6-403d-9370-f27b8a7b0a09.jpg",
       "imageHint": "seared steak"
     },
     {
@@ -63,7 +63,7 @@
     {
       "id": "food-grinder-1",
       "description": "Perfect for making freshly minced meat and homemade sausages. A versatile attachment for any chef.",
-      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/main/src/Electric%20Meat%20Grinder%2C%20Multifunctional%20Household%20Food%20Processing%20Machine%2C%20Sta___%20(3).jpg",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/main/src/lib/Electric%20Meat%20Grinder%2C%20Multifunctional%20Household%20Food%20Processing%20Machine%2C%20Sta___%20(3).jpg",
       "imageHint": "minced meat"
     }
   ]
