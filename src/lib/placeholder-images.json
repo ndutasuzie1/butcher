@@ -3,67 +3,67 @@
     {
       "id": "hero-1",
       "description": "Beef hanging in a butcher shop.",
-      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/refs/heads/main/src/lib/Beef%20Hanging%20In%20Butcher%20Shop.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/Beef%20Hanging%20In%20Butcher%20Shop.jpg",
       "imageHint": "hanging beef"
     },
     {
       "id": "pork-belly-1",
       "description": "A large, succulent piece of raw pork belly with layers of fat and meat.",
-      "imageUrl": "https://images.unsplash.com/photo-1684815495679-f6e6bc0634ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JrJTIwYmVsbHl8ZW58MHx8fHwxNzU5MTE4Mzc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/62K%20views%20%C2%B7%20931%20reactions%20_%20Delicious%20Pork%20Chops%2C%20Cooked%20In%20A%20Rich%20Onion%20Sauce%20_%20Too%20Yum%20Yummy%20_%20Facebook.jpg",
       "imageHint": "pork belly"
     },
     {
       "id": "ribeye-steak-1",
       "description": "A thick, marbled ribeye steak, raw and ready for cooking.",
-      "imageUrl": "https://images.unsplash.com/photo-1682566509605-b5bb1ef7eac2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyaWJleWUlMjBzdGVha3xlbnwwfHx8fDE3NTkwNzg5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/Always%20rest%20your%20smoked%20meat!%20Let%20it%20sit%20for%2010-15%20minutes%20for%20maximum%20juiciness_%20%F0%9F%95%92%F0%9F%A5%A9%20%23BBQTips.jpg",
       "imageHint": "ribeye steak"
     },
     {
       "id": "chicken-thighs-1",
       "description": "Raw chicken skewers (mishkakiz) ready for grilling.",
-      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/main/src/lib/download%20(1).jpg",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/download%20(2).jpg",
       "imageHint": "chicken skewers"
     },
     {
       "id": "pork-chops-1",
       "description": "A rack of pork, cut into individual chops.",
-      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/main/src/lib/Pork%20Chops%20in%20Parchment%20Paper%20-%20Fearless%20Fresh.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/Pork%20Chops%20in%20Parchment%20Paper%20-%20Fearless%20Fresh.jpg",
       "imageHint": "pork chops"
     },
     {
       "id": "pork-shoulder-1",
       "description": "Ideal for pulled pork, this cut becomes incredibly tender and flavorful with slow cooking.",
-      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/main/src/lib/Grilled%20Pork%20Shoulder%20Skewers.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/Grilled%20Pork%20Shoulder%20Skewers.jpg",
       "imageHint": "pork shoulder"
     },
     {
       "id": "butcher-knife-set-1",
       "description": "A 9-piece razor sharp butcher knife set, featuring a forged iron cleaver and heavy-duty steel blades.",
-      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/refs/heads/main/src/lib/9PCS%20Razor%20Sharp%20Butcher%20Knife%20Set%20_%20Forged%201_5kg%20Iron%20Cleaver%20%26%20Steel%20Blades%20_%20Heavy%20Duty%20Meat%20Cutting%20Kit.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/9PCS%20Razor%20Sharp%20Butcher%20Knife%20Set%20_%20Forged%201_5kg%20Iron%20Cleaver%20%26%20Steel%20Blades%20_%20Heavy%20Duty%20Meat%20Cutting%20Kit%20(1).jpg",
       "imageHint": "butcher knives"
     },
     {
       "id": "blog-sear-steak-1",
       "description": "A perfectly seared steak in a cast-iron skillet with herbs.",
-      "imageUrl": "https://images.unsplash.com/photo-1735183681165-1ca7c4a56b85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZWFyZWQlMjBzdGVha3xlbnwwfHx8fDE3NTkxMzkxMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/99141b35-23a6-403d-9370-f27b8a7b0a09.jpg",
       "imageHint": "seared steak"
     },
     {
       "id": "blog-smoking-ribs-1",
       "description": "A rack of ribs being smoked on a large grill.",
-      "imageUrl": "https://images.unsplash.com/photo-1705509444063-95b513370690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzbW9rZWQlMjByaWJzfGVufDB8fHx8MTc1OTEzOTEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/Cooked%20low%20and%20slow%20over%20smoke%20and%20then%20wrapped%E2%80%A6%20(1).jpg",
       "imageHint": "smoked ribs"
     },
     {
       "id": "butchery-grill-1",
       "description": "Master the art of barbecue with this versatile dual-function grill, perfect for both quick searing and slow smoking.",
-      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/refs/heads/main/src/lib/The%20Char-Griller%20Duo%20Combo%20Grill%20gives%20you%20the%20benefit%20of%20simple%20charcoal%20and%20gas%20cooking%20in%20one%20unit.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/994b954c-02f5-42f6-9367-8483042a6a1e.jpg",
       "imageHint": "bbq grill"
     },
     {
       "id": "food-grinder-1",
       "description": "Perfect for making freshly minced meat and homemade sausages. A versatile attachment for any chef.",
-      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/studio/refs/heads/main/src/lib/My%20Kenwood%20Chef%20Multi-Food%20Grinder%20Attachment%20(AKA%20Mincer).jpg",
+      "imageUrl": "https://raw.githubusercontent.com/ndutasuzie1/butcher/1503374a7438284aebb9948e07f8076d102ecb2f/src/Electric%20Meat%20Grinder%2C%20Multifunctional%20Household%20Food%20Processing%20Machine%2C%20Sta___%20(3).jpg",
       "imageHint": "minced meat"
     }
   ]
