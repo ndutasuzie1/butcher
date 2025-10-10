@@ -57,7 +57,7 @@ export const placeholderImagesData = {
     {
       id: "food-grinder-1",
       description: "Perfect for making freshly minced meat and homemade sausages. A versatile attachment for any chef.",
-      imageUrl: "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/Premium%20Photo%20_%20Electric%20meat%20grinder.jpg",
+      imageUrl: "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/Electric%20Meat%20Grinder%2C%20Multifunctional%20Household%20Food%20Processing%20Machine%2C%20Sta___%20(3).jpg",
       imageHint: "minced meat"
     }
   ]
