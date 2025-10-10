@@ -8,7 +8,7 @@ export const products: Product[] = [
     category: 'Pork',
     description: 'Rich, fatty, and full of flavor. Perfect for slow roasting, braising, or making homemade bacon.',
     price: 600,
-    imageId: 'pork-belly-1',
+    imageId: 'chips-mix-1',
   },
   {
     id: 'ribeye-steak',
