@@ -59,6 +59,12 @@ export const placeholderImagesData = {
       description: "Perfect for making freshly minced meat and homemade sausages. A versatile attachment for any chef.",
       imageUrl: "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/Electric%20Meat%20Grinder%2C%20Multifunctional%20Household%20Food%20Processing%20Machine%2C%20Sta___%20(3).jpg",
       imageHint: "minced meat"
+    },
+    {
+      id: "chips-mix-1",
+      description: "A delicious mix of crispy buffalo chicken fries, perfect as a spicy snack or side dish.",
+      imageUrl: "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/Buffalo%20Chicken%20Fries%20%E2%80%93%20A%20Crispy%2C%20Spicy%20Delight!.jpg",
+      imageHint: "chips mix"
     }
   ]
 };
