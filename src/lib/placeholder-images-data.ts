@@ -49,6 +49,12 @@ export const placeholderImagesData = {
       imageHint: "bbq grill"
     },
     {
+      id: "ribeye-steak-1",
+      description: "A thick, marbled ribeye steak, raw and ready for cooking.",
+      imageUrl: "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/Cooked%20low%20and%20slow%20over%20smoke%20and%20then%20wrapped%E2%80%A6%20(1).jpg",
+      imageHint: "ribeye steak"
+    },
+    {
       id: "food-grinder-1",
       description: "Perfect for making freshly minced meat and homemade sausages. A versatile attachment for any chef.",
       imageUrl: "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/Premium%20Photo%20_%20Electric%20meat%20grinder.jpg",
