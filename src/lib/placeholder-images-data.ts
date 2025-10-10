@@ -47,6 +47,12 @@ export const placeholderImagesData = {
       description: "Master the art of barbecue with this versatile dual-function grill, perfect for both quick searing and slow smoking.",
       imageUrl: "https://raw.githubusercontent.com/ndutasuzie1/butcher/blur/src/lib/994b954c-02f5-42f6-9367-8483042a6a1e.jpg",
       imageHint: "bbq grill"
+    },
+    {
+      id: "food-grinder-1",
+      description: "Perfect for making freshly minced meat and homemade sausages. A versatile attachment for any chef.",
+      imageUrl: "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/Premium%20Photo%20_%20Electric%20meat%20grinder.jpg",
+      imageHint: "minced meat"
     }
   ]
 };
