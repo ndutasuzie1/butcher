@@ -69,13 +69,13 @@ export const products: Product[] = [
 ];
 
 export const blogPosts: BlogPost[] = [
-    {
-        slug: 'how-to-sear-a-steak',
-        title: 'How to Perfectly Sear a Steak',
-        author: 'Chef John',
-        date: '2024-05-15',
-        excerpt: 'Unlock the secrets to achieving that coveted, delicious crust on your steak every single time. We cover everything from choosing the pan to managing heat.',
-        content: `
+  {
+    slug: 'how-to-sear-a-steak',
+    title: 'How to Perfectly Sear a Steak',
+    author: 'Chef John',
+    date: '2024-05-15',
+    excerpt: 'Unlock the secrets to achieving that coveted, delicious crust on your steak every single time. We cover everything from choosing the pan to managing heat.',
+    content: `
 <p>Searing a steak is an art form, but with the right technique, it's one you can master in your own kitchen. The goal is the Maillard reaction, a chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor.</p>
 <h3 class="font-headline text-xl font-bold mt-4 mb-2">Step 1: Choose Your Cut</h3>
 <p>Start with a good quality, thick-cut steak. A thickness of at least 1.5 inches is ideal. Cuts like Ribeye, New York Strip, or Sirloin work wonderfully.</p>
@@ -88,8 +88,8 @@ export const blogPosts: BlogPost[] = [
 <h3 class="font-headline text-xl font-bold mt-4 mb-2">Step 5: Sear and Finish</h3>
 <p>Carefully place the steak in the pan. Let it sear, untouched, for 2-3 minutes per side for a perfect medium-rare. For a final touch of flavor, add a knob of butter, garlic, and thyme to the pan in the last minute of cooking and baste the steak. Let it rest for 10 minutes before slicing to allow the juices to redistribute.</p>
 `,
-        imageId: 'blog-sear-steak-1'
-    },
+    imageId: 'blog-sear-steak-1'
+  },
     {
         slug: 'the-ultimate-guide-to-smoking-ribs',
         title: 'The Ultimate Guide to Smoking Ribs',

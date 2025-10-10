@@ -66,5 +66,12 @@ export const placeholderImagesData = {
       imageUrl: "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/Buffalo%20Chicken%20Fries%20%E2%80%93%20A%20Crispy%2C%20Spicy%20Delight!.jpg",
       imageHint: "chips mix"
     }
+    ,
+    {
+      id: "blog-sear-steak-1",
+      description: "A perfectly seared steak in a pan, showing a rich brown crust.",
+      imageUrl: "https://raw.githubusercontent.com/ndutasuzie1/butcher/refs/heads/blur/src/lib/Hi%2C%20I%20recently%20started%20getting%20into%20cooking%20my%E2%80%A6.jpeg",
+      imageHint: "seared steak"
+    }
   ]
 };
